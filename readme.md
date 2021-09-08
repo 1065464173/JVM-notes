@@ -1,3 +1,5 @@
+⚠️整理不易～ 希望我的学习笔记可以给大家在学习JVM的道路上提供少许帮助！
+---
 # 第一章 JVM概述
 
 ## 1.1 WHAT-JVM(Java Virtual Machine)是什么
